@@ -1,0 +1,1 @@
+function Produtos() { return <div>Listagem de Produtos</div>; } export default Produtos;

@@ -1,0 +1,1 @@
+function Saidas() { return <div>Controle de Saídas</div>; } export default Saidas;
